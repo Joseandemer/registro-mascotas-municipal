@@ -1,8 +1,11 @@
-Análisis del Registro Municipal de Mascotas – 2023–2025
+ANÁLISIS DEL REGISTRO MUNICIPAL DE MASCOTAS – 2023–2025
 
 Herramientas utilizadas:
+
 Excel
+
 SQL / MySQL
+
 Power BI
 
 Descripción:
